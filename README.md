@@ -7,7 +7,7 @@
 记录 Java 新特性 · Spring 生态 · 分布式中间件 · 后端基础设施
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Java](https://img.shields.io/badge/Java-8~21-orange?logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Java](https://img.shields.io/badge/Java-8~25-orange?logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/lynx009/java-infra/pulls)
 [![Stars](https://img.shields.io/github/stars/lynx009/java-infra?style=social)](https://github.com/lynx009/java-infra/stargazers)
@@ -34,6 +34,7 @@
 | Java 11 | HTTP Client、var 局部变量类型推断、模块系统 | 📝 整理中 |
 | Java 17 | Sealed Classes、Record、Pattern Matching | 📝 整理中 |
 | Java 21 | Virtual Threads（虚拟线程）、Sequenced Collections | 📝 整理中 |
+| Java 25 | XXX | 📝 整理中 |
 
 ### 🌱 Spring 生态
 
