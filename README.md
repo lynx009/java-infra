@@ -7,7 +7,7 @@
 记录 Java 新特性 · Spring 生态 · 分布式中间件 · 后端基础设施
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Java](https://img.shields.io/badge/Java-8%2B-orange?logo=openjdk&logoColor=white)](https://openjdk.org/)
+[![Java](https://img.shields.io/badge/Java-8~21-orange?logo=openjdk&logoColor=white)](https://openjdk.org/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/lynx009/java-infra/pulls)
 [![Stars](https://img.shields.io/github/stars/lynx009/java-infra?style=social)](https://github.com/lynx009/java-infra/stargazers)
@@ -111,7 +111,7 @@ cd spring/spring-boot
 mvn clean package -DskipTests
 ```
 
-> **环境要求**：JDK 17+，Maven 3.8+
+> **环境要求**：JDK 17+（如需运行 Java 21 虚拟线程等示例，请使用 JDK 21+），Maven 3.8+
 
 ---
 
