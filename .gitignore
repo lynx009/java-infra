@@ -1,0 +1,47 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# Java build output
+target/
+build/
+out/
+bin/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+
+# Maven
+.mvn/timing.properties
+dependency-reduced-pom.xml
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle
+.gradle/
+
+# Logs
+*.log
+logs/
+
+# Test and coverage
+*.hprof
+hs_err_pid*
+replay_pid*
+.coverage
+coverage/
